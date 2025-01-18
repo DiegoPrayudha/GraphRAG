@@ -2,7 +2,7 @@
 A powerful Retrieval-Augmented Generation (RAG) chatbot that combines graph-based data representation with cutting-edge language models to enable interactive question-answering using structured text data transformed into graph format.
 
 <br>
-![GraphRAG](GraphRAG.png)
+![GraphRAG](https://raw.githubusercontent.com/DiegoPrayudha/GraphRAG/main/image/image.png)
 
 # Technologies Used
 
