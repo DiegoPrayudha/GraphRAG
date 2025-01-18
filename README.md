@@ -2,7 +2,7 @@
 A powerful Retrieval-Augmented Generation (RAG) chatbot that combines graph-based data representation with cutting-edge language models to enable interactive question-answering using structured text data transformed into graph format.
 
 <br>
-![GraphRAG](https://raw.githubusercontent.com/DiegoPrayudha/GraphRAG/main/image/image.png)
+<img src="https://raw.githubusercontent.com/DiegoPrayudha/GraphRAG/main/image/image.png" alt="GraphRAG" width="600">
 
 # Technologies Used
 
@@ -43,3 +43,5 @@ GraphRAG leverages the Groq language model due to its:
 2. **Graph Storage**: The graph data is stored in Neo4j for efficient semantic querying.
 3. **Query Processing**: User queries are converted into semantic graph queries.
 4. **Contextual Response Generation**: Retrieved graph data is passed to the Groq model for response generation.
+
+
